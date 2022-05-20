@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://beslim.netlify.app/sitemap.xml
